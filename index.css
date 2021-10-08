@@ -1,0 +1,151 @@
+
+
+
+
+/*------------- top-header---------------*/
+.top-header{
+	background-color: black;
+}
+.top-header nav ul li a{
+	color: #fff;
+}
+
+/*---------------- menu ---------------------*/
+
+.main-manu nav ul li h3{
+	font-size: 19px;
+	color: black;
+	padding: 15px;
+	font-family: 'Roboto', sans-serif;
+	margin-top: 20px;
+}
+.main-manu nav ul li h3.active{
+	color: #d69557;
+}
+
+img{
+	margin-top: 26px;
+}
+
+/*--------------- banner section ------------------------*/
+.banner{
+	background-color: #f9f9f9;
+}
+.banner-tittle{
+	color: #d69557;
+	line-height: 64px;
+}
+
+/*--------------------dropdown - shop header--------------------------*/
+
+.shop-header{
+	background-color: black;
+}
+.shop-header nav ul li a{
+	color: #fff;
+}
+
+/*-----------------------popular now-------------------------*/
+.popular{
+	text-align: center;
+	font-size: 39px;
+	color:#d69557; 
+}
+
+/*---------------product menu --- card------------------------*/
+.product-navs ul li a h6{
+	color: black;
+	font-size: 19px;
+}
+.product-navs ul li a h6.focus{
+	color: #d69557;
+}
+
+/*--------------------product box----------------------*/
+
+
+.text{
+	margin-left: 290px;
+	margin-right: 290px;
+}
+.button{
+	margin-left: 510px;
+}
+
+.season-sale{
+	background-color: black;
+}
+
+
+
+.new-collection{
+	background-color: #f9f9f9;
+}
+.sale{
+	text-align: center;
+
+}
+.sale h5{
+	font-size: 25px;
+	color: #d69557;
+	margin-top: 60px;
+}
+.sale h3{
+	font-size: 44px;
+	color: #fff;
+	margin-bottom: 60px;
+}
+.subscribe{
+	font-size: 17px;
+	margin-left: 150px;
+	margin-top: 3px;
+}
+.mail{
+	border: 2px solid #d69557;
+	margin-bottom: 20px;
+			
+}
+.mail h6{
+	margin-top: 5px;
+}
+
+.show{
+	margin-left: 600px;
+}
+
+.behind{
+	margin-top: 50px;
+
+}
+
+/*footer*/
+.footer{
+	background-color: black;
+
+}
+.footer-01 p{
+	color: #fff;
+}
+.footer-02 h6{
+	color: #fff;
+}
+.footer-03 h6{
+	color: #fff;
+}
+
+/*.footer-04{
+	margin-top: 150px;
+}*/
+.footer-04 h5{
+	color: #fff;
+}
+.footer-04 p{
+	color: #fff;
+}
+/*.footer-04 h6{
+	color: #fff;
+	border: 1px solid #d69557;
+}*/
+.footer-05 nav ul li a{
+	color: #fff;
+}
